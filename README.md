@@ -6,9 +6,6 @@ The Air Quality Index (AQI) dataset provides a detailed view of air pollution le
 Air pollution poses a significant threat to public health, especially in urban areas where industrial activities and vehicle emissions are high. Understanding the patterns and contributors to poor air quality can help in developing effective environmental policies and public health advisories. This project aims to analyze and model air quality data collected from multiple cities over time. The primary goal is to identify key factors contributing to poor air quality and develop predictive models to forecast the Air Quality Index (AQI) based on pollutant levels. This will enable stakeholders to take proactive measures to reduce pollution and protect public health.
 
 # Dataset Information
-## 📑 Dataset Information
-
-## 📑 Dataset Information
 
 | Column Name     | Description                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
